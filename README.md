@@ -1,6 +1,9 @@
 # Google-Homepage
 
-I will be creating Google.com
+I will be creating  my own Google.com
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Creating a search engine (Google) from the basic skills that I have currently learned from the Odin Project curriculum.
+
+
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
